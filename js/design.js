@@ -15,9 +15,21 @@ $(".makeGrid").click(function(e) {
     }
     }
    });
-
-//color capturing
-$("#pixelCanvas").on("click", "td", function() {
+   // Your code goes here!
+   //Reset table
+   function removeTable() {
+    $("#pixelCanvas").empty();
+   }
+   //color capturing
+   $("#pixelCanvas").on("click", "td", function() {
     let pickcolor = $("#colorPicker").val();
     $(this).css("background-color", pickcolor);
    });
+   //Upon double click color will get remove.
+   $("#pixelCanvas").on("dblclick", "td", function() {
+    $(this).css("background-color", "");
+   });
+   //resets entire table color
+   function removeColor() {
+    $("td").css("background-color", "");
+   }
