@@ -792,3 +792,22 @@ input[type="number"]{
       .footer--dark .footer__link:hover {
         color: #fff;
         border-color: #fff; } }
+        
+        
+table,
+tr,
+td {
+    border: 1px solid black;
+    }
+        
+table {
+     border-collapse: collapse;
+     margin: 0 auto;
+      }
+tr {
+    height: 20px;
+    }
+        
+td {
+    width: 20px;
+    }

@@ -33,16 +33,16 @@
 				<div class="hero__content">
 					<div class="hero__content__inner" id='navConverter'>
 						<h1 class="hero__title">Pixel Art Maker</h1>
-						<p class="hero__text"><center>This project is based on Evie theme.
-							 This project is done for udacity front end nsnodegree program. This page is mobile and web responsive. </center> </p>
-						<a href="https://evie.undraw.co" class="button hero__button">Learn more</a>
+						<p class="hero__text"><center>This project is based on Evie theme by unDraw.
+							 This project is done for udacity front end nanodegree program. This page is mobile and web responsive. </center> </p>
+						<a href="https://evie.undraw.co" class="button hero__button">About Evie</a>
 						<h2 class="hero__title">Choose Grid Size</h2>
 						<form id="sizePicker">
 							Grid Height:
-							<input type="number" id="inputHeight" name="height" min="1" value="1">
+							<input type="number" id="inputHeight" name="height" min="1" max="100" value="5"required >
 							Grid Width:
-							<input type="number" id="inputWeight" name="width" min="1" value="1">
-							<input class="button button__accent" type="submit">
+							<input type="number" id="inputWeight" name="width" min="1" max="100" value="5"required>
+							<input type="submit" class="button button__accent makeGrid" value="Submit" >
 						</form>
 
 						<h2 class="hero__title">Pick A Color</h2>
@@ -72,9 +72,6 @@
 						<div class="footer__row">
 							Created by <a href="https://twitter.com/logan1x_" target="_blank" class="footer__link">Khushal Sharma</a>
 						</div>
-						<!-- <div class="footer__row">
-						Code/design by <a href="https://twitter.com/anges244" target="_blank" class="footer__link">Aggelos Gesoulis</a>
-						</div> -->
 					</div>
 					<div class="footer__data__item">
 						<div class="footer__row">Created for <a href="https://udacity.com" target="_blank" class="footer__link">Udacity</a>
@@ -99,6 +96,8 @@
 			</div>
 		</div>
 	</div>
+<script src='js/design.js'></script>
 <script src='js/app.min.js'></script>
+
 </body>
 </html>
