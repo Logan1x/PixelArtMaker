@@ -17,4 +17,4 @@ Here are some samples screenshots to see how website looks like.
 
 ### Web View
 
-<p align="center"><img src="images/pam_web.png" title="Web View"></p>
+<p align="center"><img src="images/pam_web2.png" title="Web View"></p>
