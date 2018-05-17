@@ -5,7 +5,7 @@ Here are some samples how website looks like.
 
 ---
 
-Mobile View
+### Mobile View
 
 <p align="center">
         <img src="images/pam_mobile1.png" title="Header">
@@ -16,6 +16,6 @@ Mobile View
 
 ---
 
-Web View
+### Web View
 
 <p align="center"><img src="images/pam_web.png" title="Web View"></p>
