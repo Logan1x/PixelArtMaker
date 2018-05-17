@@ -6,15 +6,16 @@ Here are some samples how website looks like.
 ---
 
 Mobile View
-<center>
-        <img src="images/pam_mobile1.png">
-        <img src="images/pam_mobile2.png">
-        <img src="images/pam_mobile4.png">
-        <img src="images/pam_mobile5.png">
-</center>
+
+<p align="center">
+        <img src="images/pam_mobile1.png" title="Header">
+        <img src="images/pam_mobile2.png" title="Grid Size">
+        <img src="images/pam_mobile4.png" title="Canvas">
+        <img src="images/pam_mobile5.png" title="Footer">
+</p>
 
 ---
 
 Web View
 
-<center><img src="images/pam_web.png"></center>
+<p align="center"><img src="images/pam_web.png" title="Web View"></p>
