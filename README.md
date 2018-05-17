@@ -1,7 +1,6 @@
 # PixelArtMaker
-This Repo contains Code for [Pixel Art Maker](http://logan1x.me/PixelArtMaker/) project done for udacity nanodegree.
-This page is Web and Mobile responsive.
-Here are some samples how website looks like.
+This Repo contains Code for [Pixel Art Maker](http://logan1x.me/PixelArtMaker/) project done for udacity nanodegree.This is web app that allows users to draw pixel art on a customizable canvas! This page is Web and Mobile responsive.
+Here are some samples screenshots to see how website looks like.
 
 ---
 
