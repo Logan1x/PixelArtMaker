@@ -23,7 +23,9 @@ Here are some samples screenshots to see how website looks like.
 
 <p align="center"><img src="images/pam_web2.png" title="Web View"></p>
 
-##### Want to use to it, see [`LICENSE`](https://github.com/Logan1x/PixelArtMaker/blob/master/LICENSE)
+---
+
+##### Want to use to it for personal project, see [`LICENSE`](https://github.com/Logan1x/PixelArtMaker/blob/master/LICENSE).
 
 ##### Made some changes, want me to add
 
