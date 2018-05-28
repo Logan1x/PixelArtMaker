@@ -22,3 +22,15 @@ Here are some samples screenshots to see how website looks like.
 ### Web View
 
 <p align="center"><img src="images/pam_web2.png" title="Web View"></p>
+
+##### Want to use to it, see [`LICENSE`](https://github.com/Logan1x/PixelArtMaker/blob/master/LICENSE)
+
+##### Made some changes, want me to add
+
+1. Fork it (<https://github.com/Logan1x/PixelArtMaker/fork>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Add your docs in `docs/data.json` file
+4. Commit your changes (`git commit -am 'Add some fooBar'`)
+5. Push to the branch (`git push origin feature/fooBar`)
+6. Create a new Pull Request
+7. Add your name with a link to your profile in the contributors list
